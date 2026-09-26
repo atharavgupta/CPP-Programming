@@ -2,7 +2,7 @@
 
 A structured C++ programming repository covering core programming concepts, Object-Oriented Programming (OOP), Standard Template Library (STL), and foundational problem-solving skills.
 
-This repository was created to build a strong foundation in C++ through topic-wise programs and practical implementation of concepts.
+This repository documents my learning of C++ through topic-wise programs and practical implementation of concepts.
 
 ## Topics Covered
 
@@ -68,6 +68,38 @@ The programs are organized topic-wise to make it easier to review concepts and t
 - GCC (MinGW)
 - Git & GitHub
 
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/atharavgupta/CPP-Programming.git
+```
+
+2. Open the repository in Visual Studio Code.
+
+3. Navigate to any topic folder and open a `.cpp` file.
+
+4. Compile and run the program using a C++ compiler such as GCC (MinGW).
+
+Example:
+
+```bash
+g++ filename.cpp -o filename
+```
+
+Then run the compiled program:
+
+```bash
+./filename
+```
+
+On Windows Command Prompt, you can also run:
+
+```bash
+filename.exe
+```
+
 ## Purpose
 
 The purpose of this repository is to document my C++ learning journey through practical programs and build a strong foundation for further learning in Data Structures and Algorithms (DSA).
@@ -75,3 +107,11 @@ The purpose of this repository is to document my C++ learning journey through pr
 ## Next Step
 
 After strengthening these C++ fundamentals, the next stage is to apply them while learning **Data Structures and Algorithms (DSA)** in C++.
+
+## Author
+
+**Atharav Gupta**
+
+B.Tech Engineering Student
+
+This repository is part of my programming learning journey and will continue to grow as I explore more concepts and projects.
